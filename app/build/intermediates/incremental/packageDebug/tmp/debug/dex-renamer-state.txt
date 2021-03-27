@@ -1,0 +1,4 @@
+#Sat Mar 27 16:31:16 NPT 2021
+base.0=D\:\\IT\\L6 Sem 2\\Mobile App Development\\Lab\\FragmentExample2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
