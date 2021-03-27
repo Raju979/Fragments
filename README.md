@@ -49,5 +49,5 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
 
-## Homework
-!['Completed Homework'](./completed_homework.gif)
+## Completed Task2
+!['Completed Task2'](./completed_task2.gif)

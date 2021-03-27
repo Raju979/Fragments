@@ -93,16 +93,4 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
-    <Button
-        android:id="@+id/next_button"
-        android:layout_width="70dp"
-        android:layout_height="37dp"
-        android:layout_marginStart="32dp"
-        android:layout_marginLeft="32dp"
-        android:layout_marginTop="12dp"
-        android:onClick="launchSecondActivity"
-        android:text="@string/next"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/open_button" />
-
 </android.support.constraint.ConstraintLayout>
